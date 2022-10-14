@@ -30,8 +30,21 @@
 
 </blockquote>
 
-**B**</br>
+**Description of each field** </br>
 <blockquote>
+
+**medallion** :- Also known as a CPNC, is a transferable permit in the United States allowing a taxicab driver to operate.</br></br>
+**hack_license** :- Taxi license number.</br></br>
+**vendor_id** :-  The unique sequence which is assigned to each vendor in order to establish a recordkeeping and tracking system.</br></br>
+**rate_code** :- Rate codes are taxi's meter setting.</br></br>
+**store_and_fwd_flag** :- This flag indicates whether the trip record was held in vehicle's memory before sending to the vendor, aka “store and forward,” because the vehicle did not have a connection to the server.</br></br>
+**picup_datetime & dropoff_datetime** :- Date and time for a particular trip's pickup and dropoff respectively.</br></br>
+**passenger_count** :- Number of customer for that trip.</br></br>
+**trip_time_in_secs** :- Recorded total trip time in seconds.</br></br>
+**trip_distance** :- Recorded total trip distance.</br></br>
+**pickup_longitude & pickup_latitude** :- The exact location from where the passenger were picked.</br></br>
+**dropoff_longitude & dropoff_latitude** :- The exact location to where the passenger were dropped.</br>
+
 </blockquote>
 
 #
@@ -200,7 +213,7 @@ Minimum Trip Distance = 0.04 </blockquote> </br>
 
 <blockquote>
 
-![This is an image](Images/graph3.png)
+![This is an image](Images/graph3.PNG)
 
 </blockquote>
 

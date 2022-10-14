@@ -1,0 +1,6 @@
+1. I have used trip_data_6.csv file.
+2. You can find the complete output in README.md file.
+3. You can find the code in trip_data_6.ipynb.
+4. I have also provided with trip_data_6.py file for your convenience.
+
+THANK You
